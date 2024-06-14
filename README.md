@@ -3,6 +3,10 @@ Responsive Landing Page.
 
 Yummy is a fully responsive fast food website,
 
+**Project Overview:**
+
+The objective was to create a user-friendly, visually appealing, and fully responsive web page that offers an exceptional browsing experience across all devices, from desktops to smartphones.
+
 **Responsive Restaurant Website**
 
 
